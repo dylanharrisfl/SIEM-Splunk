@@ -62,6 +62,9 @@ To combat this, I utilized the not equal operator (!=) to show me any Source_Cou
 This last question was pretty straight forward, I just needed to do the same thing in question 3 to query for any logs associated with the specified IP address. This ended up being 14 logs.
 <img width="1220" height="400" alt="image" src="https://github.com/user-attachments/assets/7aeb10fe-e22f-49a8-ae08-49c43a0d5daf" />
 
+I know this was only scratching the surface of what Splunk can do. This taught me that Splunk is a very straight forward interface when it comes to log injestion and analysis. It breaks down the log for you so you can utilize its interface to search for what you need much quicker. 
+I enjoyed getting familiar with the interface, as the concepts and techniques tend to be universal to many SIEMs. Splunk has definitely been my favorite interface to work with so far, and I look forward to doing more labs to uncover what else it has to offer!
+
 
 
 
