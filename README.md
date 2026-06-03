@@ -1,4 +1,4 @@
-# SIEM - Splunk Basics
+# SIEM - Splunk Fundamentals
 
 Utilizing Splunk basics to ingest and query log data.
 
